@@ -1,0 +1,70 @@
+*{
+  background: rgb(179,179,179);
+background: linear-gradient(90deg, rgba(179,179,179,0.850577731092437) 0%, rgba(157,190,190,1) 38%, rgba(18,19,19,1) 100%);
+/* font-family: 'Redressed', cursive; */
+background-size: 100%;
+}
+
+body  {
+   text-align: center;
+  
+}
+
+/* header */
+
+header{
+
+}
+
+/* others_stats */
+
+.others_stats{
+
+}
+
+/* track_details */
+
+#trackDetails > div{
+margin: auto;
+}
+
+#trackDetails > div > img {
+  max-width: 350px;
+}
+
+/* user_Stats */
+
+.user_Stats{
+
+}
+
+/* index */
+body {
+  background: none;
+}
+
+section.header{
+background-color: rgba(209, 248, 246, 0.1);
+/* height: 100vh; */
+}
+
+#turntable{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+
+.user_Stats{
+
+}
+
+/* about_us */
+
+.user_Stats{
+
+}
+
